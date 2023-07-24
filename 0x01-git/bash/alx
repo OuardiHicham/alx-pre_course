@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ALX on the main branch
+=======
+ALX on the update_script branch
+>>>>>>> update_script
+echo "ALX School is so cool!"
